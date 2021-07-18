@@ -1,0 +1,15 @@
+* {
+    margin: 15px;
+}
+
+button{
+    background-color: crimson;
+    border-radius: 5px;
+    padding: 10px;
+    color: white;
+}
+
+button:hover {
+    background-color: gray;
+    color: white;
+}

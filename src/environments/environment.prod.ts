@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: true,
+  authBackend: 'https://angular-auth-2d.herokuapp.com/api'
 };
